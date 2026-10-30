@@ -1,8 +1,8 @@
 # Developing a Neural Network Classification Model
 
-### Name: Aravind G
+### Name: Bharath D
 
-### Register Number:212224240014
+### Register Number:212224240025
 
 ## AIM
 To develop a neural network classification model for the given dataset.
